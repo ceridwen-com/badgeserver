@@ -1,0 +1,8 @@
+target
+dependency-reduced-pom.xml
+.settings
+.project
+.classpath
+.idea
+*.iml
+.sonar_lock
